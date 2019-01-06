@@ -4,3 +4,6 @@ author:
   email: "kitsune.solar@gmail.com"
   github: ""
   twitter: ""
+site:
+  og:
+    locale: ru_RU
