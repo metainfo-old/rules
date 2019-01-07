@@ -1,9 +1,15 @@
 title: "Правила поведения в сообществах"
 description: ""
 markdown: kramdown
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-sitemap
+
 sass:
   style: :compressed
   sass_dir: assets/css/
+
 author:
   name: "Kitsune Solar"
   email: "kitsune.solar@gmail.com"
