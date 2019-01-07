@@ -1,15 +1,12 @@
 title: "Правила поведения в сообществах"
 description: ""
+
 markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript
   - jekyll-sitemap
-
-sass:
-  style: compressed
-  sass_dir: assets/css/
 
 author:
   name: "Kitsune Solar"
