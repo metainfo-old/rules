@@ -1,4 +1,9 @@
 title: "Правила поведения в сообществах"
+description: ""
+markdown: kramdown
+sass:
+  style: :compressed
+  sass_dir: assets/css/
 author:
   name: "Kitsune Solar"
   email: "kitsune.solar@gmail.com"
