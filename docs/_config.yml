@@ -5,8 +5,10 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-coffeescript
   - jekyll-sitemap
+
+sass:
+  style: compressed
 
 author:
   name: "Kitsune Solar"
