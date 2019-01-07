@@ -5,6 +5,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-coffeescript
   - jekyll-sitemap
 
 sass:
