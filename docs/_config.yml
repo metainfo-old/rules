@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
 
 sass:
-  style: :compressed
+  style: compressed
   sass_dir: assets/css/
 
 author:
