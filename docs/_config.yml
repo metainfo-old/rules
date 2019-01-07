@@ -2,7 +2,7 @@ title: "Правила поведения в сообществах"
 description: ""
 
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 
 plugins:
   - jekyll-seo-tag
